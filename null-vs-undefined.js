@@ -1,4 +1,4 @@
-Those condition will show result in undefined
+// Those condition will show result in undefined
 
 let fahiyan;
 
@@ -18,11 +18,9 @@ console.log(result);
 var objects = { name: "Fahiyan", id: 4324 };
 console.log(objects.address);
 
-not recommended in coding
+// not recommended in coding
 let fun = undefined;
 console.log(fun);
 
 const friends = [4, 53, 64];
 console.log(friends[5]);
-
-
